@@ -107,7 +107,7 @@ If you use our code or models in your research, please cite:
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/UIT-SHANKS-NTIRE2025}}
+  howpublished = {\url{https://github.com/lenguyen2592004/UIT-SHANKS-NTIRE2025}}
 }
 ```
 
